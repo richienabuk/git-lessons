@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/richienabuk/git-lessons/issues"
   },
-  "homepage": "https://github.com/richienabuk/git-lessons#readme"
+  "homepage": "https://github.com/richienabuk/git-lessons#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
